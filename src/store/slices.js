@@ -16,7 +16,7 @@ export const fetchList = createAsyncThunk(
       }
 
       const { results } = await response.json();
-      console.log('ress', results)
+
       return results;
     } catch (error) {
       return rejectWithValue(error.message);
@@ -30,7 +30,7 @@ export const fetchList = createAsyncThunk(
 export const addItem = createAsyncThunk(
   'contacts/addItem',
   async function (item, { rejectWithValue }) {
-    console.log('item', item)
+    
     try {
       const response = await fetch(`https://jsonplaceholder.typicode.com/todos/${item.name}`, {
         method: 'PATCH',
