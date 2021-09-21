@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/contacts-react/static/css/main.b4b02e38.chunk.css",
+    "main.js": "/contacts-react/static/js/main.f690ce20.chunk.js",
+    "main.js.map": "/contacts-react/static/js/main.f690ce20.chunk.js.map",
+    "runtime-main.js": "/contacts-react/static/js/runtime-main.fb14afd3.js",
+    "runtime-main.js.map": "/contacts-react/static/js/runtime-main.fb14afd3.js.map",
+    "static/js/2.9c190193.chunk.js": "/contacts-react/static/js/2.9c190193.chunk.js",
+    "static/js/2.9c190193.chunk.js.map": "/contacts-react/static/js/2.9c190193.chunk.js.map",
+    "index.html": "/contacts-react/index.html",
+    "static/css/main.b4b02e38.chunk.css.map": "/contacts-react/static/css/main.b4b02e38.chunk.css.map",
+    "static/js/2.9c190193.chunk.js.LICENSE.txt": "/contacts-react/static/js/2.9c190193.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb14afd3.js",
+    "static/js/2.9c190193.chunk.js",
+    "static/css/main.b4b02e38.chunk.css",
+    "static/js/main.f690ce20.chunk.js"
+  ]
+}
