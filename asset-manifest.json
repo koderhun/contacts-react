@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/contacts-react/static/css/main.b4b02e38.chunk.css",
-    "main.js": "/contacts-react/static/js/main.c388d2c7.chunk.js",
-    "main.js.map": "/contacts-react/static/js/main.c388d2c7.chunk.js.map",
+    "main.js": "/contacts-react/static/js/main.e157afbd.chunk.js",
+    "main.js.map": "/contacts-react/static/js/main.e157afbd.chunk.js.map",
     "runtime-main.js": "/contacts-react/static/js/runtime-main.fb14afd3.js",
     "runtime-main.js.map": "/contacts-react/static/js/runtime-main.fb14afd3.js.map",
     "static/js/2.9c190193.chunk.js": "/contacts-react/static/js/2.9c190193.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.fb14afd3.js",
     "static/js/2.9c190193.chunk.js",
     "static/css/main.b4b02e38.chunk.css",
-    "static/js/main.c388d2c7.chunk.js"
+    "static/js/main.e157afbd.chunk.js"
   ]
 }
