@@ -9,17 +9,17 @@ function App() {
       <header>
         <div className="container">
           <nav>
-            <Link to="/">Contacts</Link>
-            <Link to="/add">Add Contacts</Link>
+            <Link to="/contacts-react/">Contacts</Link>
+            <Link to="/contacts-react/add">Add Contacts</Link>
           </nav>
         </div>
       </header>
       <div className="container">
         <Switch>
-          <Route path="/" exact>
+          <Route path="/contacts-react/" exact>
             <List/>
           </Route>
-          <Route path="/add">
+          <Route path="/contacts-react/add">
             <Add/>
           </Route>
         </Switch>
